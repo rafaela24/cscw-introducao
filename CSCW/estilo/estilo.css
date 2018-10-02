@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+ }
+
+.conteudo{
+	width: 100vw;
+    height: 100vh;
+    background: #9370DB;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+}
+
+.avatar{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	margin-right: 10px;
+}
+
+.dados{
+	width: 400px;
+	height: 100px;
+	background: #ADD8E6;
+	padding: 10px;
+	text-align: center;
+	border-radius: 10px;
+	margin-right: 10px;
+}
